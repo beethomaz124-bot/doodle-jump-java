@@ -1,0 +1,23 @@
+DOODLE JUMP - Java Swing (Trabalho de POO)
+
+COMO RODAR (precisa do JDK 8 ou superior instalado)
+
+Pelo terminal, dentro desta pasta:
+    javac -encoding UTF-8 *.java
+    java Main
+
+Ou clique duas vezes em:
+    - Windows: rodar.bat
+    - Linux/Mac: rodar.sh
+
+Em IDEs (IntelliJ, Eclipse, NetBeans, VS Code): crie um projeto Java,
+copie os 6 arquivos .java para a pasta src e execute a classe Main.
+
+NOVIDADES ADICIONADAS:
+    - Plataformas verdes normais
+    - Plataformas marrons quebradiças (racham e somem ao pisar)
+    - Plataformas com mola (dão um super pulo)
+    - Monstros móveis estilo Doodle Jump (pule em cima deles para derrotá-los, mas evite bater de frente/lado!)
+
+CONTROLES
+    Seta esquerda / direita: mover o personagem
